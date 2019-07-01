@@ -1,0 +1,6 @@
+1. write a program to add,sub, mul,div withouth using any control logic
+		--write in java 
+		--write using function pointers--assign
+2. Display your name in the center of the screen using function pointetrs write a program in c language
+3. write using a functional programming to sum all even numbers
+4. Inbuilt Functional Interfaces(Supplier,Consumer,Predicate) 
