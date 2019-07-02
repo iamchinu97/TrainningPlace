@@ -1,0 +1,44 @@
+----Assignments---
+1. implement encapsulation, Abstraction, polymorphism, inheritance in java
+2. Constructor and dispose technique
+3. Create class integerArray which will have following methods or constructors 
+	-if array size is not specified default size is 10
+	-should have copy constructors
+	-should read the elements
+	-method should sort array
+	-to do a search
+	-to find avg
+	-to do search
+
+4. to add, subtract matrix
+	-if size not given size should be 3*3
+	-able to adapt another matrix
+5. accept amount in figures convert it to words
+6. open a image file and convert image to black and white image
+7. create a class which checks number is prime or not
+
+--HomeWork---
+1. resource bundling, log4j, lamda expressions, method referencec, Streams, Filters, Mapping, Statistical information
+2. inbuilt functional interfaces
+
+----Notes---
+How to change Compilation env?
+Ans : right click on project-->Build path --> configure build path --> Libraries --> double click on JRE --> then you can change 
+
+@Encapsulation :
+can be implemented
+--through access modifiers
+--through packages
+
+#Access Modifiers(they have class level accessiblity can't write in function)
+private- only accessible into class
+default- accessible inside package
+protected- accesible inside package and outside package through inheritance, can't use through instance if we instantiate in Inherited class but can use inside function of inherited class directly. 
+public- Accessible to all
+
+@Polymorphism
+can have 2 types
+
+
+
+
