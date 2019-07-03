@@ -1,0 +1,35 @@
+---Assignments---
+1. write java class to add two numbers using the MVC architechture
+2. write small program with generics and wrapper classes
+	- to remove all the duplicates from array
+3. write a program to store employee id and employee(name,age) details
+	- based on employee id fetch data
+	- based on request sort and give data
+4. create notepad file which contains numbers in a line delimited by "," open this read line append how many numbers are there 
+5. Write a program to copy directory as a backup
+6. Open a given file and perform below action based on choice
+	-display all the line of file which matches the given word
+	-replace all the given word with another word
+
+-- Notes---
+Dispose technique:
+	--free up memory is garbage collection not dispose technique
+	--Object created but not disposed is a Memory leakage
+	--We should dereference the object to send it to garbage collection it so we should set it to NULL;
+	-- Garbage collector allocates or deallocates the memory from JVM heap memory area
+
+collection is framework made of Interfaces and classes and algorithms
+	Collection framework contains:
+		- Collection Interfaces:
+			which has sub interfaces
+			-List
+			-Set
+			-Map
+			-Queue
+
+Normal program : ArrayList
+Thread wala Program : Vector
+
+Spring
+polygot
+Microservices
