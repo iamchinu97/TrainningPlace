@@ -1,0 +1,9 @@
+1. write a program to store employee id and employee(name,age) details
+	- based on employee id fetch data
+	- based on request sort and give data
+2. create notepad file which contains numbers in a line delimited by "," open this read line append how many numbers are there 
+3. Write a program to copy directory as a backup
+4. Open a given file and perform below action based on choice
+	-display all the line of file which matches the given word
+	-replace all the given word with another word
+	

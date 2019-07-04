@@ -1,0 +1,18 @@
+--- Assignments ---
+1. write a java class to store employee id and his qualification
+	- employee can have multiple qualification
+	- qual should not be duplicated
+
+2. Create a tik tok game
+3. Perform a card game
+4. Store age, name, city and salary in a file
+	-accept a sql query and display a data
+
+---HomeWork---
+1. Sonar Lint
+2. Logger4j
+3. How to create JDBC connection
+4. Serialization
+
+--- Notes ---
+1
