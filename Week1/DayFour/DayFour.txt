@@ -1,4 +1,4 @@
---- Assignments ---
+---Assignments---
 1. write a java class to store employee id and his qualification
 	- employee can have multiple qualification
 	- qual should not be duplicated
@@ -14,5 +14,5 @@
 3. How to create JDBC connection
 4. Serialization
 
---- Notes ---
-1
+---Notes---
+1 
