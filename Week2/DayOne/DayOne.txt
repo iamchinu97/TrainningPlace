@@ -1,0 +1,7 @@
+----Assignments----
+
+
+----Notes----
+mvn compile - compilation
+mvn test- testing
+mvn package -jar creation
