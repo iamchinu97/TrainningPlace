@@ -1,0 +1,4 @@
+----assignments----
+1.to read the data of the student and update,delete another service
+2 to take address of the student and give the geographic location
+3. another web service to take the name of the player and game and provide the details of the player
