@@ -1,0 +1,17 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:util="http://www.springframework.org/schema/util"
+    
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+<bean id="h1" class="p1.Holiday" scope="prototype">
+	<property name="date" value="hi"></property>
+	<property name="name" value="there"></property>
+</bean>
+
+<bean id="employee" class="p1.Employee">
+<constructor-arg value="18" ></constructor-arg>
+<constructor-arg value="rajat"></constructor-arg>
+</bean>
+</beans>

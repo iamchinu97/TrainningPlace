@@ -1,0 +1,11 @@
+---Steps for spring---
+create maven project -> build path -> add folder -> resources -> add dependencies in the POM file
+-> refresh project by = right click on project -> maven-> update project
+
+---Assignment-----
+1. make a holiday class with date and holiday name and inject it
+2. create pojo which contains arraylist of the holiday
+3. create a class employee (name,age) create a constructor for dependency injection and update the bean
+
+---read---
+1. AOP- join point, weaving, advice, 

@@ -1,0 +1,16 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:util="http://www.springframework.org/schema/util"
+    
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+        
+<bean id="hello" class="p1.Hello" scope="singleton">
+</bean>
+
+<bean id="h1demo1" class="p1.Holiday" scope="prototype">
+	<property name="date" value="hi"></property>
+	<property name="hname" value="there"></property>
+</bean>
+
+</beans>
