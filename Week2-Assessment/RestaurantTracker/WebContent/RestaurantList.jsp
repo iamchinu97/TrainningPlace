@@ -59,7 +59,7 @@ for(RestaurantBean rb : result)
 	<td><%= rb.getCuisines() %></td>
 	<td><%= rb.getPrice_range() %></td>
 	<td><%= rb.getRating() %></td>
-	<td><a href="BookRestaurantController?id=<%=rb.getId()%>"><input type="submit" value="Book"></a></td>
+	<td><a href="RestaurantBooking.jsp?id=<%=rb.getId()%>"><input type="submit" value="Book"></a></td>
 </tr>
 <%}}
 else{

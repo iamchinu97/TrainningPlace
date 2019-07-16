@@ -14,6 +14,13 @@ public class BookingsBean {
 		this.lastname = lastname;
 		this.members = members;
 	}
+	
+	@Override
+	public String toString() {
+		return "BookingsBean [id=" + id + ", name=" + name + ", firstname=" + firstname + ", lastname=" + lastname
+				+ ", members=" + members + "]";
+	}
+
 	public String getId() {
 		return id;
 	}

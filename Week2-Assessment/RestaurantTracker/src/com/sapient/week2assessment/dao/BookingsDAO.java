@@ -1,11 +1,12 @@
 package com.sapient.week2assessment.dao;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import com.sapient.week2.assessment.bean.BookingsBean;
 
 public class BookingsDAO {
-	public static List<BookingsBean> bookings;
+	public static List<BookingsBean> bookings= new ArrayList<BookingsBean>();
 	public void bookRestaurant(String id,String name,String firstname,String lastname,String members)
 	{
 		BookingsBean bb= new BookingsBean(id, name, firstname, lastname, members);
