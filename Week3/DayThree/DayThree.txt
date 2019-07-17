@@ -1,0 +1,6 @@
+-------
+1. spring starter project -> web -> spring web starter
+
+
+mvn clean package
+java -jar jarfilename
